@@ -1,4 +1,4 @@
-package dad.cloudcombat.demo;
+package dad.cloudcombat;
 
 public class Main {
 
